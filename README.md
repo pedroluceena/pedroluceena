@@ -11,6 +11,6 @@
 - 🧰 My Tools: 
 - VScode , Brave and Microsoft Edge ,Git , GitHub, Linux(Ubuntu) and Windows 10
 
--📧 Contact: 
+- 📧 Contact: 
 - devroot22@pm.me 
 
