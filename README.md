@@ -1,8 +1,6 @@
 ### Hello World! or Olá Mundo! 👋
   
      My Name is Pedro Lucena!
-     I like PC/GAMES and Animes
-     and knowledge !
 
 
 - 🌱 I’m currently learning: 
