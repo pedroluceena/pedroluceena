@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning: 
-- HTML ,CSS , JAVASCRITP , PYTHON
+- HTML ,CSS , JAVASCRITP , NODE.JS,REACT AND REACT NATIVE 
 
 - 🧰 My Tools: 
 - VScode , Brave and Microsoft Edge ,Git , GitHub, Linux(Ubuntu) and Windows 10
