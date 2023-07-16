@@ -19,3 +19,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="60" height="60" />
 </p>
 
+- I am constantly studying to improve myself
+- I'm currently heavily studying Backend features.
+- Send me a message
