@@ -1,24 +1,19 @@
-<h1 align="center"> Hello World 👋 </h1>  
-     
+# Pedro Lucena
 
-<p align="center">
- <a href="https://www.linkedin.com/in/pedroluceena/" target="_blank">
-  <img src="https://img.icons8.com/fluent/60/000000/linkedin.png" />
- </a>
-<p align="center"> 
- <strong>
-   Skills
-  </strong>
-</p>
+Technology enthusiast and Fullstack when needed.
 
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="60" height="60" />
-</p>
+[![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pedroluceena/)
 
-- I am constantly studying to improve myself
-- I'm currently heavily studying Backend features.
-- Send me a message
+## Who am I
+
+He currently worked as a software developer at Eletronuclear as an Intern.
+I'm in college, and I should finish soon. Currently, I want to pursue a career as a software engineer using [.NET](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet) I also program in JavaScript and know a little about [React](https://react.dev/). On the database side, I use [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads).
+I believe that the technologies I am learning are essential for a software engineer's career. I look forward to continuing to learn and develop in this area.
+I believe that the technologies I am learning are essential for a software engineer's career. I look forward to continuing to learn and develop in this area.
+Next steps are to learn [Docker](https://www.docker.com/) and Cloud
+
+### Observation
+I am passionate about writing and analyzing films, series and games. I'm also a big fan of open-source projects and want to contribute to the technology community one day. I currently write short articles on Dev.to. These are basic articles, but I believe they are a good start for content production. Thank you for reading!
+
+[![dev.to](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/https://dev.to/pedroluceena)
+
