@@ -2,7 +2,7 @@
 
 Technology enthusiast and Fullstack when needed.
 
-[![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pedroluceena/)
+[![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroluceena/)
 
 ## Who am I
 
@@ -15,5 +15,5 @@ Next steps are to learn [Docker](https://www.docker.com/) and Cloud
 ### Observation
 I am passionate about writing and analyzing films, series and games. I'm also a big fan of open-source projects and want to contribute to the technology community one day. I currently write short articles on Dev.to. These are basic articles, but I believe they are a good start for content production. Thank you for reading!
 
-[![dev.to](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/https://dev.to/pedroluceena)
+[![dev.to](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/pedroluceena)
 
