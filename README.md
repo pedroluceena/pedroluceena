@@ -6,7 +6,7 @@ Technology enthusiast and Fullstack when needed.
 
 ## About me
 
-I developed software for the nuclear power plant's control systems as a software developer intern at Eletronuclear.
+II work at a Nuclear Energy company, Eletronuclear, as a Software Development intern.
 
 I'm in college, and I should finish soon. Currently, I want to pursue a career as a software engineer using [.NET](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet) I also program in [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) and know a little about [React](https://react.dev/). On the database side, I use [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads).
 I believe that the technologies I am learning are essential for a software engineer's career. I look forward to continuing to learn and develop in this area.
